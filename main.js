@@ -243,7 +243,7 @@ counters.forEach(counter => {
   
         document.getElementById('readMoreCity1').addEventListener('click', function() {
             // Redirect to another page (change the URL to the desired page)
-            window.location.href = '/jjuff/about-city.html'; // Replace with your target page
+            window.location.href = 'about-city.html'; // Replace with your target page
         });
 
   document.getElementById('readMoreJju1').addEventListener('click', function() {
